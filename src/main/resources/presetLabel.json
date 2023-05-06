@@ -1,0 +1,155 @@
+{
+  "编程语言": [
+    {
+      "C语言": [
+        "C基础语法",
+        "指针",
+        "内存管理",
+        "C标准库"
+      ]
+    },
+    {
+      "C++": [
+        "C++基础语法",
+        "面向对象编程",
+        "模板",
+        "标准库"
+      ]
+    },
+    {
+      "Java": [
+        {
+          "Java基础": [
+            "Java SE",
+            "Java EE",
+            "Java SE Embedded",
+            "Java ME",
+            "Java Card",
+            "JavaFX"
+          ]
+        },
+        {
+          "Java框架": [
+            "Spring",
+            "Spring Framework",
+            "Spring Boot",
+            "Hibernate",
+            "MyBatis",
+            "Spring Security",
+            "Struts",
+            "JSF",
+            "Play Framework",
+            "Vert.x"
+          ]
+        },
+        {
+          "Java工具": [
+            "Maven",
+            "Gradle",
+            "Ant",
+            "Jenkins",
+            "SonarQube",
+            "JUnit"
+          ]
+        },
+        {
+          "Java虚拟机": [
+            "JVM",
+            "JRE",
+            "JIT编译器",
+            "垃圾回收器（GC）"
+          ]
+        },
+        {
+          "Java应用": [
+            "Android应用开发",
+            "Scala",
+            "Kotlin",
+            "Clojure"
+          ]
+        }
+      ]
+    },
+    {
+      "Python": [
+        "Python基础语法",
+        "面向对象编程",
+        "函数式编程",
+        "Python标准库",
+        {
+          "Python框架": [
+            "Django",
+            "Flask",
+            "Pyramid",
+            "Tornado"
+          ]
+        },
+        {
+          "Python科学计算": [
+            "NumPy",
+            "Pandas",
+            "SciPy",
+            "Matplotlib"
+          ]
+        }
+      ]
+    },
+    {
+      "JavaScript": [
+        "JavaScript基础语法",
+        "DOM操作",
+        "jQuery",
+        "React",
+        "Vue",
+        "Angular"
+      ]
+    },
+    {
+      "Go": [
+        "Go基础语法",
+        "并发编程",
+        "Web应用开发",
+        "Go标准库"
+      ]
+    },
+    {
+      "Ruby": [
+        "Ruby基础语法",
+        "面向对象编程",
+        "Ruby标准库",
+        {
+          "Ruby框架": [
+            "Ruby on Rails",
+            "Sinatra",
+            "Padrino"
+          ]
+        }
+      ]
+    }
+  ],
+  "数据库": [
+    "MySQL",
+    "Oracle",
+    "SQL Server",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis"
+  ],
+  "网络编程": [
+    "TCP/IP",
+    "HTTP/HTTPS",
+    "WebSocket",
+    "RPC"
+  ],
+  "操作系统": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "设计模式": [
+    "单例模式",
+    "工厂模式",
+    "装饰器模式",
+    "观察者模式"
+  ]
+}
